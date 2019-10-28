@@ -1,13 +1,24 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
 <html>
 <head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="style.css">
+ <title>Opgave Java-A: Noterjav1.htm  JavaScript  med en tæller, fd dec 2011</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ <script language="JScript"> 
+ var tal=0
+ function entilfunk()
+   { 
+     tal=tal+1
+     taellerfelt.value=tal
+   }
+ </script>
 </head>
 <body>
-
-<p> Anden side publiserede hjemmeside </p>
+  <p> Anden side publiserede hjemmeside </p>
 <a href="index.html">Link til den første side </a>
 
+ <h1>En tæller, der kan lægge én til</h1>
+ <input type=button name="entilknap" value="Læg én til" onclick="entilfunk()"> </input>
+ <br><br>
+ <input type=button name="taellerfelt" value="0" size="2"></input>
 </body>
 </html>
