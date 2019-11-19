@@ -1,6 +1,6 @@
 Hvad skal de kunne:
 
-VIDEN
+VIDEN å
 - hvad er internettet, TCP, IP
 - hvad er www, html, hyperlink, sever <-> browser
 - Dom√¶nenavn - IP-addresse
