@@ -1,3 +1,19 @@
 body {
   background-color: rgb(91, 146, 229);
 }
+
+/* overskrift h1 design */
+h1{
+font-style: italic;
+}
+
+/* class til at flytte billede til højre */
+.floatImage{
+  float: right;
+}
+
+/* afsnit specificeret med anden baggrund og font størrelse */
+div {
+background-color: red;
+  font-size: 10vx;
+}
