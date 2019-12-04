@@ -3,7 +3,7 @@ Hvad skal de kunne:
 VIDEN 
 - hvad er internettet, TCP, IP
 - hvad er www, html, hyperlink, sever <-> browser
-- Dom√¶nenavn - IP-addresse
+- Domænenavn - IP-addresse
 - webhost
 - webbrowser
 - billeder og opretsrettigheder
@@ -14,20 +14,20 @@ TEKNISK
 - strukturering af filer og mapper
 - rgb farver
 
-DESIGN, Fokus p√• brugeren:
+DESIGN, Fokus på brugeren:
 
 Specifikationer
-	- hvad skal brugeren have ud af bes√∏get p√• hjemmesid
+	- hvad skal brugeren have ud af besæget på hjemmesid
 
 - Design
-	- normans designprincipper brugt p√• hjemmesider
-- M√•lgruppe, person
-	- beskriv din m√•lgrupp?
-	- hvilke valg har I truffet for at f√• m√•lgruppen til at blive p√• hjemmesid
+	- normans designprincipper brugt på hjemmesider
+- Målgruppe, person
+	- beskriv din målgrupp?
+	- hvilke valg har I truffet for at få målgruppen til at blive på hjemmesid
 	- hvordan har I valgt at formiddle GCP?
 - Brugertest
 	- design en brugertest
-		- sp√∏rgeskema
+		- spærgeskema
 		- direkte observation
 		- interview
 - Brugervenlighed, ud fra brugertest
@@ -40,7 +40,7 @@ Specifikationer
 
 PROJEKT
 Hjemmeside til kommende 3.g rejseklasser
-- Fokus p√• GCP
+- Fokus på GCP
 
 HTML:
 Basic Elements;	<></>, Headings, Paragraphs, lists, tabels, br, hl
