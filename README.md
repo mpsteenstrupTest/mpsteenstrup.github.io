@@ -9,8 +9,10 @@ det til at have vores websider liggenden.
 3. lav nyt repository ``` NEW ``` ,med navnet ```brugernavn.github.io```, **hvis du kalder det noget andet virker det ikke**
 4. den fil som bliver loadet først skal hedde ```index.html```, du kan uploade filen eller lave en ny
 5. placer filerne i samme folder, evt. med billeder i en undermappe
-6. websiden er nu tilgængelig på adressen brugernavn.github.io, eks. [mpsteenstrup.github.io](mpsteenstrup.github.io)
+6. websiden er nu tilgængelig på adressen brugernavn.github.io, eks. [mpsteenstrup.github.io](mpsteenstrup.github.io). 
+
 
 Det anbefales generelt ikke at bruge specialtegn og æøå i filnavne.
 
+Det kan godt kræve lidt tålmodighed at arbejde direkte i editoren på Github, da siden ikke altid opdatere så hurtigt. Man kan evt prøve ```shift command R``` for hard reload af den side I vil se. 
 
