@@ -8,9 +8,6 @@ font-style: italic;
 }
 
 /* afsnit specificeret med anden baggrund og font størrelse */
-div.one{
-background: rgb(111,166,249);
-}
 
 div.left{
 width: 60%;
