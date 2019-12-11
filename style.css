@@ -7,13 +7,24 @@ h1{
 font-style: italic;
 }
 
-/* class til at flytte billede til højre */
+/* class til at flytte billede til højre 
 .floatImage{
   float: right;
 }
-
+*/
 /* afsnit specificeret med anden baggrund og font størrelse */
-div {
-background-color: gray;
-  font-size: 10vx;
+div.left{
+width: 60%;
+float: left;
+font-size: 100px;
+background-color: rgb(200,200,0);
+}
+
+div.right{
+float: right;
+background-color: rgb(200,100,100);
+width: 40%;
+margin-top: 5px;
+overflow: hidden;
+font-size: 40;
 }
