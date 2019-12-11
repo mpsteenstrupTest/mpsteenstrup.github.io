@@ -9,7 +9,7 @@ font-style: italic;
 
 /* afsnit specificeret med anden baggrund og font størrelse */
 div{
-background: rgb(111,166,249)
+background: rgb(111,166,249);
 }
 
 div.left{
