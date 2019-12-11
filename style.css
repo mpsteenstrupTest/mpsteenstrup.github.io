@@ -24,7 +24,6 @@ div.right{
 float: right;
 background-color: rgb(200,100,100);
 width: 40%;
-margin-top: 5px;
 overflow: hidden;
 font-size: 40;
 }
