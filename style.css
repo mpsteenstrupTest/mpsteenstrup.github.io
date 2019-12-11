@@ -9,9 +9,12 @@ font-style: italic;
 
 /* afsnit specificeret med anden baggrund og font størrelse */
 
-div.left{
-width: 60%;
-height: 40%;
+.row {
+  display: flex; /* equal height of the children */
+}
+
+.col{
+width: 50%;
 float: left;
 font-size: 60px;
 background-color: rgb(200,200,0);
